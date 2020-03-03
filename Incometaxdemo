@@ -43,4 +43,4 @@ public class Incometaxdemo {
 			System.out.println("30%");
 		}
 	}
-}c
+}
